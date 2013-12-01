@@ -1,4 +1,4 @@
 ObjectiveCPlistCreate
 =====================
 
-Create a plist file width Objective C
+Create a plist file with Objective C
